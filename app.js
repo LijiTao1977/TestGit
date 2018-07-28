@@ -5,8 +5,9 @@ const server = http.createServer((req,res)) => {
     {
            //...
     }
-    if(req.url==='/api/courses'){
-        //...
-    }
+    
 });
+
+//tes
+
 server.listen(3000);
